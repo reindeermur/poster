@@ -18,7 +18,7 @@ main {
 }
 
 .text {
-    padding-top: 370px;
+    padding-top: 375px;
     position: absolute;
     width: 1541px;
     height: 1800px;
@@ -34,14 +34,14 @@ h1 {
 }
 
 h2 {
-    font-size: 85px;
+    font-size: 80px;
     line-height: 1.25;
     letter-spacing: 5px;
     word-spacing: -5px;
 }
 
 .column {
-    padding-top: 50px;
+    padding-top: 60px;
     margin-left: 5px;
     font-size: 33px;
     letter-spacing: normal;
