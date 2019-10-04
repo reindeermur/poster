@@ -1,0 +1,121 @@
+main {
+    width: 1841px;
+    height: 2567px;
+    background-color: white;
+    position: relative;
+}
+
+.logo {
+    font-family: 'Oswald', sans-serif;
+    font-size: 85px;
+    margin-left: 150px;
+    position: absolute;
+    padding-top: 155px;
+}
+
+.logo:first-letter {
+    color: #f60000;
+}
+
+.text {
+    padding-top: 370px;
+    position: absolute;
+    width: 1541px;
+    height: 1800px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 150px;
+    line-height: 1.3;
+}
+
+h1 {
+
+    font-size: 155px;
+    margin: 0 0 0 0;
+}
+
+h2 {
+    font-size: 85px;
+    line-height: 1.25;
+    letter-spacing: 5px;
+    word-spacing: -5px;
+}
+
+.column {
+    padding-top: 50px;
+    margin-left: 5px;
+    font-size: 33px;
+    letter-spacing: normal;
+    word-spacing: -2px;
+    height: 500px;
+}
+
+ul {
+    line-height: 1.5;
+}
+
+.l_b {
+    margin-top: 150px;
+}
+
+.r_b {
+    margin-top: 70px;
+}
+
+.left_c {
+    float: left;
+    width: 830px;
+}
+
+.right_c {
+    float: right;
+    width: 690px;
+}
+
+.task {
+    width: 100%;
+    height: 100%;
+    opacity: 10;
+}
+
+.figures {
+    height: 590px;
+    width: 1820px;
+    margin-left: 10px;
+    bottom: 0;
+    position: absolute;
+}
+
+.yellow {
+    fill: #ffd400;
+    background-color: #ffd400;
+}
+
+.black {
+    background-color: black;
+}
+
+.red {
+    fill: #f60000;
+    fill-rule: evenodd;
+}
+
+.sphere {
+    position: absolute;
+    height: 548px;
+    width: 548px;
+    margin-left: 700px;
+    border-radius: 50%;
+}
+
+.square {
+    position: absolute;
+    width: 275px;
+    height: 308px;
+    margin-left: 425px;
+    margin-bottom: 15px;
+    bottom: 0;
+}
+
+svg {
+    position: absolute;
+}
